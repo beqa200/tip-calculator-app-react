@@ -1,5 +1,4 @@
-# Tip calculator app 
-
+# Tip calculator app
 
 ## Overview
 
@@ -15,13 +14,10 @@ Users should be able to:
 
 ![](./src/design/desktop-design-empty.jpg)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
+- Solution URL: [GitHub Code](https://github.com/beqa200/tip-calculator-app-react)
+- Live Site URL: [Vercel Live](https://tip-calculator-app-react-orcin.vercel.app/)
 
 ### Built with
 
@@ -30,12 +26,6 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-
-
-
 ## Author
 
 - LinkedIn - [Beqa Maisuradze](https://www.linkedin.com/in/beqa-maisuradze-76a730234/)
-
-
-
